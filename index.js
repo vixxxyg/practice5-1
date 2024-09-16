@@ -6,7 +6,7 @@ window.onload = inicio;
       console.log(resultado);
 
       function inicio() {
-        document.querySelector(".boton1").onclick = girar;
+        document.querySelector(".boton").onclick = girar;
         actualizar();
       }
 
